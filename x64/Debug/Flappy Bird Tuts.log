@@ -1,0 +1,12 @@
+﻿  Game.cpp
+D:\DEV\Projects\00 sfml\Flappy Bird Tuts\Flappy Bird Tuts\Game.cpp(102,87): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\DEV\Projects\00 sfml\Flappy Bird Tuts\Flappy Bird Tuts\Game.cpp(102,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Flappy Bird Tuts.vcxproj -> D:\DEV\Projects\00 sfml\Flappy Bird Tuts\x64\Debug\Flappy Bird Tuts.exe
